@@ -1,0 +1,15 @@
+C:\Users\1663209\Documents\Bernardo\atividade_VetorPT2\bin\Debug\net9.0\atividade_VetorPT2.exe
+C:\Users\1663209\Documents\Bernardo\atividade_VetorPT2\bin\Debug\net9.0\atividade_VetorPT2.deps.json
+C:\Users\1663209\Documents\Bernardo\atividade_VetorPT2\bin\Debug\net9.0\atividade_VetorPT2.runtimeconfig.json
+C:\Users\1663209\Documents\Bernardo\atividade_VetorPT2\bin\Debug\net9.0\atividade_VetorPT2.dll
+C:\Users\1663209\Documents\Bernardo\atividade_VetorPT2\bin\Debug\net9.0\atividade_VetorPT2.pdb
+C:\Users\1663209\Documents\Bernardo\atividade_VetorPT2\obj\Debug\net9.0\atividade_VetorPT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1663209\Documents\Bernardo\atividade_VetorPT2\obj\Debug\net9.0\atividade_VetorPT2.AssemblyInfoInputs.cache
+C:\Users\1663209\Documents\Bernardo\atividade_VetorPT2\obj\Debug\net9.0\atividade_VetorPT2.AssemblyInfo.cs
+C:\Users\1663209\Documents\Bernardo\atividade_VetorPT2\obj\Debug\net9.0\atividade_VetorPT2.csproj.CoreCompileInputs.cache
+C:\Users\1663209\Documents\Bernardo\atividade_VetorPT2\obj\Debug\net9.0\atividade_VetorPT2.sourcelink.json
+C:\Users\1663209\Documents\Bernardo\atividade_VetorPT2\obj\Debug\net9.0\atividade_VetorPT2.dll
+C:\Users\1663209\Documents\Bernardo\atividade_VetorPT2\obj\Debug\net9.0\refint\atividade_VetorPT2.dll
+C:\Users\1663209\Documents\Bernardo\atividade_VetorPT2\obj\Debug\net9.0\atividade_VetorPT2.pdb
+C:\Users\1663209\Documents\Bernardo\atividade_VetorPT2\obj\Debug\net9.0\atividade_VetorPT2.genruntimeconfig.cache
+C:\Users\1663209\Documents\Bernardo\atividade_VetorPT2\obj\Debug\net9.0\ref\atividade_VetorPT2.dll
